@@ -84,7 +84,6 @@ The dataset contains hotel booking details such as:
 
 -Deploy the model using Streamlit or Flask
 
--Add cross-validation for robust performance
 
 -Integrate deep learning models for comparison
 
