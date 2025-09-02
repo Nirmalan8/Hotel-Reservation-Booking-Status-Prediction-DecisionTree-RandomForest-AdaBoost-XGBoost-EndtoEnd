@@ -91,5 +91,5 @@ The dataset contains hotel booking details such as:
 ##  **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nirmalan8/hotel-reservation-prediction.git
+   git clone https://github.com/NirmalanSK/hotel-reservation-prediction.git
    cd hotel-reservation-prediction
